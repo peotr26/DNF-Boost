@@ -16,3 +16,5 @@ cd dnf-boost
 The number of parallel downloads and making "Yes" the default are optional.
 
 If accepted, the parallel downloads number is set to 10.
+
+In my case `fastestmirror=True` does make a difference.
