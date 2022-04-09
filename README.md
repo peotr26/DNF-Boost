@@ -1,5 +1,5 @@
 # dnf-boost
-A script that boost help enabling certain features of DNF.
+A script that boost DNF and help enabling certain features of DNF.
 
 ## Instructions:
 
