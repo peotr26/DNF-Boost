@@ -8,7 +8,7 @@ Enter the following command:
 ```
 git clone https://github.com/peotr26/dnf-boost
 cd dnf-boost
-./dnf-boost
+./dnf-boost.sh
 ```
 
 ## More info:
