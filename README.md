@@ -1,4 +1,4 @@
-# dnf-boost
+# DNF-Boost
 A script that boost DNF and help enabling certain features of DNF.
 
 ## Instructions:
@@ -8,7 +8,7 @@ Enter the following command:
 ```
 git clone https://github.com/peotr26/dnf-boost
 cd dnf-boost
-sudo bash dnf-boost.sh
+sudo bash DNF-Boost.sh
 ```
 
 ## More info:
