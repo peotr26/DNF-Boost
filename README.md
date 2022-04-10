@@ -6,8 +6,8 @@ A script that boost DNF and help enabling certain features of DNF.
 Enter the following command:
 
 ```
-git clone https://github.com/peotr26/dnf-boost
-cd dnf-boost
+git clone https://github.com/peotr26/DNF-Boost
+cd DNF-Boost
 sudo bash DNF-Boost.sh
 ```
 
