@@ -1,4 +1,7 @@
 # DNF-Boost
+
+*This script has been moved to the [Fedora-Scripts](https://github.com/peotr26/Fedora-Scripts) repository.*
+
 A script that boost DNF and help enabling certain features of DNF.
 
 ## Instructions:
